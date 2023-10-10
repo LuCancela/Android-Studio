@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "502487701589",
+    "firebase_url": "https://basededados-6803c-default-rtdb.firebaseio.com",
+    "project_id": "basededados-6803c",
+    "storage_bucket": "basededados-6803c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502487701589:android:52bc6c42adbf3d34089cdc",
+        "android_client_info": {
+          "package_name": "com.example.basedados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8R7N8QH8EfCC5Sa-Nxz6VTkuVzjvDBPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

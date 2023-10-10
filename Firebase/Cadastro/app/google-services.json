@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "617904091320",
+    "firebase_url": "https://produtos-806db-default-rtdb.firebaseio.com",
+    "project_id": "produtos-806db",
+    "storage_bucket": "produtos-806db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617904091320:android:098c23cbeca6ffb7cc844d",
+        "android_client_info": {
+          "package_name": "com.example.cadastro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Noz0FsJBOmzzkEtE-0_vz-g4jYBzlaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
