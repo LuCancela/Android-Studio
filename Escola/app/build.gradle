@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.basedados'
+    namespace 'com.example.escola'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.basedados"
+        applicationId "com.example.escola"
         minSdk 33
         targetSdk 33
         versionCode 1

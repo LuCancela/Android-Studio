@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "557797847897",
+    "firebase_url": "https://escola-99301-default-rtdb.firebaseio.com",
+    "project_id": "escola-99301",
+    "storage_bucket": "escola-99301.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557797847897:android:5f1e5edf5ac1b00dde5248",
+        "android_client_info": {
+          "package_name": "com.example.escola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_JHbyUP6MS2rosS3mhiYOqGYIgwplWZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
