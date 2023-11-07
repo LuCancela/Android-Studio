@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "769448290094",
+    "firebase_url": "https://escolansa-4a232-default-rtdb.firebaseio.com",
+    "project_id": "escolansa-4a232",
+    "storage_bucket": "escolansa-4a232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769448290094:android:d8c9b664d08f01f7e97cbf",
+        "android_client_info": {
+          "package_name": "com.example.escolansa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAae-85g42FW3tjs-FWLZr9Osj105ch32Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
